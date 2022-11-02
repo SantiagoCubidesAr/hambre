@@ -1,0 +1,22 @@
+.titulo{
+    color: brown;
+    background-color: burlywood;
+}
+body{
+ background-image: url(https://i.pinimg.com/originals/f5/d7/8c/f5d78c07102ce4a571f7c16d243169f0.png);
+}
+#boton{
+    color: brown;
+    background-color: burlywood;
+}
+.titulo1{
+    color: brown;
+    background-color: darkgray;
+}
+table{
+    background-color: white;
+    color: brown;
+}
+.caption{
+    background-color: white;
+}
